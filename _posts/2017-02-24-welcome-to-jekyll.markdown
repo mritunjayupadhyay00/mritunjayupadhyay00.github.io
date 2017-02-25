@@ -8,16 +8,4 @@ I guess this all began back in 2002. I was thinking about teaching programming, 
 
 Unfortunately, there wasn't much Ruby documentation geared for newbies at the time. Some of us in the community were talking about what such a "Ruby for the Nuby" tutorial would need, and more generally, how to teach programming at all. The more I thought about this, the more I had to say (which surprised me a bit). Finally, someone said, "Chris, why don't you just write a tutorial instead of talking about it?" So I did.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
