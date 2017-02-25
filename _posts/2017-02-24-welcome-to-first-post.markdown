@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to LK!"
 date:   2017-02-24 09:30:06 -0500
-categories: jekyll update
+categories: learn update
 ---
 I guess this all began back in 2002. I was thinking about teaching programming, and what a great language Ruby would be for learning how to program. I mean, we were all excited about Ruby because it was powerful, elegant, and really just fun, but it seemed to me that it would also be a great way to get into programming in the first place.
 
