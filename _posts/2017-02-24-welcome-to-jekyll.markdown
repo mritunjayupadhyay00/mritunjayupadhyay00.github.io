@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Learn to Program!"
 date:   2017-02-24 09:30:06 -0500
 categories: Learn to Program
 ---
